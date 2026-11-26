@@ -17,6 +17,9 @@ A high-fidelity React + TypeScript + Tailwind CSS v4 reconstruction of **TeddyPu
 │   ├── brand/logo.png
 │   ├── cursor/paw.svg & paw-press.svg
 │   └── _redirects                  # SPA fallback for Netlify / Cloudflare Pages
+├── prompts/
+│   ├── README.md                   # Prompt engineering overview
+│   └── master-reverse-engineering-prompt.md  # Complete multi-phase AI prompt
 ├── src/
 │   ├── App.tsx                     # Client-side router & VNode page renderer
 │   ├── index.css                   # Complete design tokens, typography, and animations
